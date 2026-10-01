@@ -16,3 +16,4 @@ firefox --version
 python --version
 
 #jenkins --version
+#it will download all above these files 
